@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/albee-chang/hexschool-node-dailytask/issues"
   },
-  "homepage": "https://github.com/albee-chang/hexschool-node-dailytask#readme"
+  "homepage": "https://github.com/albee-chang/hexschool-node-dailytask#readme",
+  "dependencies": {
+    "mongoose": "^7.0.3"
+  }
 }
